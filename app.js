@@ -4,7 +4,7 @@ const app = Vue.createApp({
             firstName: 'John',
             lastName: 'Doe',
             email: 'john@gmail.com',
-            gender: 'Male',
+            gender: 'male',
             picture: 'https://randomuser.me/api/portraits/men/62.jpg'
         }
     }
