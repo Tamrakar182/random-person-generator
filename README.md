@@ -1,1 +1,2 @@
-## random user generator app made using random person api and vue cdn
+## Random User Generator
+This was made by using the Random person API and uses the VUE CDN.
